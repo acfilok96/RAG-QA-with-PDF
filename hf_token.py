@@ -1,2 +1,2 @@
 def Hf_Token():
-    return str("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")
+    return str("Enter Your HuggingFace API key")
