@@ -10,7 +10,7 @@ This `Streamlit` framework use to built a LLM chatbot application that analyzes 
 
   `├── Image_Record_SQLDB.db`
   
-  `├── app.py`
+  `├── header.py`
   
   `├── functions.py`
   
